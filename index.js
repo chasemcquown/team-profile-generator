@@ -97,7 +97,7 @@ function employeeInfo() {
         throw err;
       }
       console.log("Your team profile has been generated! Check the dist folder!");
-    })
+    }) 
 
   })
 };
