@@ -14,6 +14,8 @@ The user must simply answer the command line prompts. Once finished with the pro
 
 ![](assets/screenshot.png)
 
+[Watch this video for a walkthrough of the application](https://youtu.be/4Hsb7k4P_zM)
+
 ## Contributing
 
 Made with ❤️ by [Chase McQuown]
